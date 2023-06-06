@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 
-st.set_page_config(page_title="guess", page_icon="🐬")
+st.set_page_config(page_title="guess", page_icon="🤔")
 st.header("Guessing Game")
 st.markdown(
     """
